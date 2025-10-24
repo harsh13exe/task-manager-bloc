@@ -1,5 +1,4 @@
-<img width="1080" height="2400" alt="Screenshot_1761280747" src="https://github.com/user-attachments/assets/2b79f14b-d271-4c83-ada8-57f799615605" /># ✅ My Gig Tasker – Task Management App
-
+# ✅ My Gig Tasker – Task Management App
 A smart and beautifully designed **Task Management App** built using **Flutter**, **Firebase**, and the **BLoC State Management Pattern**. Easily organize your work with **priority-based sorting**, **due dates**, and **completion tracking** — a perfect productivity companion! ✅✨
 
 ---
@@ -19,6 +18,7 @@ A smart and beautifully designed **Task Management App** built using **Flutter**
 | 📱 Platform Support | Fully compatible with Android & iOS |
 
 ---
+<img width="1080" height="2400" alt="Screenshot_1761280747" src="https://github.com/user-attachments/assets/2b79f14b-d271-4c83-ada8-57f799615605" />
 <img width="1080" height="2400" alt="Screenshot_1761280747" src="https://github.com/user-attachments/assets/e24ba95a-06b9-4a86-baa6-a4efc0e5e20c" />
 <img width="1080" height="2400" alt="Screenshot_1761280745" src="https://github.com/user-attachments/assets/ecfe62ab-80c4-4b27-8391-2d5e329bf373" />
 <img width="1080" height="2400" alt="Screenshot_1761280778" src="https://github.com/user-attachments/assets/312a16dd-c141-4138-9f36-13ef1c471beb" />
